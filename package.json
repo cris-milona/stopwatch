@@ -1,0 +1,19 @@
+{
+  "name": "js_stopwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cris-milona/stopwatch.git"
+  },
+  "author": "Milona Christina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cris-milona/stopwatch/issues"
+  },
+  "homepage": "https://github.com/cris-milona/stopwatch#readme"
+}
